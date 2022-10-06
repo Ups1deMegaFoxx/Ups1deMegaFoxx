@@ -1,0 +1,6 @@
+- 👋 Hello, You can call me Tadpole
+- 👀 I’m interested in software engineering and app building 
+- 🌱 I’m currently learning how to build secure user apps and communication lines
+- 💞️ I’m looking to collaborate on personal projects or codelabs from repositories of android builds
+- 📫 You can reach me on my twitter
+- Thank You!
