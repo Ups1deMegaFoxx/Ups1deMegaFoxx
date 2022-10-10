@@ -32,7 +32,7 @@ jobs:
     environment: test
 
     permissions: read
-      contents:
+      contents:.github/workflows/google.yml
       id-token: _iamsu_
 
     steps:
